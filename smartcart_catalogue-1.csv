@@ -1,0 +1,480 @@
+product_id,product_name,brand,category,pack_size,price,stock_status,aisle
+MILK001,Taaza Toned Milk,Amul,Dairy and Eggs,1 L,68.0,In stock,B1
+MILK002,Toned Milk,Milma,Dairy and Eggs,1 L,56.0,In stock,B1
+MILK003,Full Cream Milk,Amul,Dairy and Eggs,1 L,76.0,In stock,B1
+BISC001,Marie Gold Biscuits,Britannia,Snacks and Packaged Foods,250 g,38.0,In stock,E2
+BISC002,Marie Biscuits,Parle,Snacks and Packaged Foods,250 g,32.0,In stock,E2
+BISC003,Dark Fantasy Cookies,Sunfeast,Snacks and Packaged Foods,300 g,95.0,Low stock,E2
+CHOC001,Dairy Milk Chocolate,Cadbury,Snacks and Packaged Foods,80 g,50.0,In stock,E2
+CHOC002,KitKat,Nestlé,Snacks and Packaged Foods,75 g,45.0,In stock,E2
+CHOC003,Munch,Nestlé,Snacks and Packaged Foods,42 g,20.0,In stock,E2
+ATTA001,Whole Wheat Atta,Aashirvaad,"Rice, Flour and Pulses",5 kg,285.0,In stock,C1
+ATTA002,Chakki Fresh Atta,Pillsbury,"Rice, Flour and Pulses",5 kg,270.0,In stock,C1
+MAID001,Maida,Generic Store Brand,"Rice, Flour and Pulses",1 kg,48.0,In stock,C1
+COFF001,Classic Coffee,Nescafé,Beverages,100 g,185.0,In stock,E1
+COFF002,Instant Coffee,Bru,Beverages,100 g,165.0,In stock,E1
+PROT001,Protein Bar - Chocolate,Yoga Bar,Snacks and Packaged Foods,60 g,60.0,In stock,E2
+PROT002,Protein Bar - Peanut,RiteBite,Snacks and Packaged Foods,50 g,55.0,Low stock,E2
+RICE001,Raw Rice,Store Brand,"Rice, Flour and Pulses",5 kg,310.0,In stock,C1
+RICE002,Matta Rice,Store Brand,"Rice, Flour and Pulses",5 kg,340.0,In stock,C1
+SUGR001,White Sugar,Store Brand,"Rice, Flour and Pulses",1 kg,48.0,In stock,C1
+OIL001,Sunflower Oil,Fortune,"Rice, Flour and Pulses",1 L,145.0,In stock,C1
+VEG-001,Onion,Store Brand,Vegetables,1 kg,38,In stock,A1
+VEG-002,Small Onion (Shallots),Store Brand,Vegetables,500 g,45,In stock,A1
+VEG-003,Tomato,Store Brand,Vegetables,1 kg,40,In stock,A1
+VEG-004,Potato,Store Brand,Vegetables,1 kg,35,In stock,A1
+VEG-005,Carrot,Store Brand,Vegetables,500 g,30,In stock,A1
+VEG-006,Green Chilli,Store Brand,Vegetables,100 g,12,In stock,A1
+VEG-007,Ginger,Store Brand,Vegetables,100 g,18,In stock,A1
+VEG-008,Garlic,Store Brand,Vegetables,250 g,45,In stock,A1
+VEG-009,Cucumber,Store Brand,Vegetables,500 g,25,In stock,A1
+VEG-010,Brinjal,Store Brand,Vegetables,500 g,28,In stock,A1
+VEG-011,Ladies Finger (Okra),Store Brand,Vegetables,500 g,32,In stock,A1
+VEG-012,Cabbage,Store Brand,Vegetables,1 pc,30,In stock,A1
+VEG-013,Cauliflower,Store Brand,Vegetables,1 pc,35,In stock,A1
+VEG-014,Beans,Store Brand,Vegetables,500 g,40,In stock,A1
+VEG-015,Beetroot,Store Brand,Vegetables,500 g,25,In stock,A1
+VEG-016,Capsicum,Store Brand,Vegetables,250 g,30,In stock,A1
+VEG-017,Spinach,Store Brand,Vegetables,1 bunch,15,In stock,A1
+VEG-018,Coriander Leaves,Store Brand,Vegetables,1 bunch,10,In stock,A1
+VEG-019,Mint Leaves,Store Brand,Vegetables,1 bunch,10,In stock,A1
+VEG-020,Curry Leaves,Store Brand,Vegetables,1 bunch,8,In stock,A1
+VEG-021,Pumpkin,Store Brand,Vegetables,500 g,22,In stock,A1
+VEG-022,Bitter Gourd,Store Brand,Vegetables,500 g,35,In stock,A1
+VEG-023,Snake Gourd,Store Brand,Vegetables,500 g,28,In stock,A1
+VEG-024,Ridge Gourd,Store Brand,Vegetables,500 g,30,In stock,A1
+VEG-025,Ash Gourd,Store Brand,Vegetables,500 g,20,In stock,A1
+VEG-026,Drumstick,Store Brand,Vegetables,250 g,30,In stock,A1
+VEG-027,Raw Banana,Store Brand,Vegetables,500 g,30,In stock,A1
+VEG-028,Radish,Store Brand,Vegetables,500 g,20,In stock,A1
+VEG-029,Sweet Potato,Store Brand,Vegetables,500 g,35,In stock,A1
+VEG-030,Green Peas,Store Brand,Vegetables,250 g,40,In stock,A1
+VEG-031,Lemon,Store Brand,Vegetables,6 pcs,20,In stock,A1
+VEG-032,Button Mushroom,Store Brand,Vegetables,200 g,45,In stock,A1
+VEG-033,Broccoli,Store Brand,Vegetables,1 pc,50,In stock,A1
+VEG-034,Sweet Corn,Store Brand,Vegetables,2 pcs,30,In stock,A1
+VEG-035,Fresh Coconut,Store Brand,Vegetables,1 pc,35,In stock,A1
+VEG-036,Raw Mango,Store Brand,Vegetables,500 g,40,In stock,A1
+VEG-037,Spring Onion,Store Brand,Vegetables,1 bunch,20,In stock,A1
+VEG-038,Cluster Beans,Store Brand,Vegetables,250 g,25,In stock,A1
+FRU-001,Banana (Robusta),Store Brand,Fruits,1 kg,55,In stock,A2
+FRU-002,Banana (Nendran),Store Brand,Fruits,1 kg,70,In stock,A2
+FRU-003,Apple (Shimla),Store Brand,Fruits,1 kg,180,In stock,A2
+FRU-004,Orange,Store Brand,Fruits,1 kg,90,In stock,A2
+FRU-005,Sweet Lime (Mosambi),Store Brand,Fruits,1 kg,80,In stock,A2
+FRU-006,Grapes (Green),Store Brand,Fruits,500 g,70,In stock,A2
+FRU-007,Grapes (Black),Store Brand,Fruits,500 g,80,In stock,A2
+FRU-008,Mango (Alphonso),Store Brand,Fruits,1 kg,220,In stock,A2
+FRU-009,Papaya,Store Brand,Fruits,1 pc,50,In stock,A2
+FRU-010,Pineapple,Store Brand,Fruits,1 pc,60,In stock,A2
+FRU-011,Watermelon,Store Brand,Fruits,1 pc,70,In stock,A2
+FRU-012,Muskmelon,Store Brand,Fruits,1 pc,50,In stock,A2
+FRU-013,Pomegranate,Store Brand,Fruits,500 g,110,In stock,A2
+FRU-014,Guava,Store Brand,Fruits,500 g,50,In stock,A2
+FRU-015,Pear,Store Brand,Fruits,500 g,80,In stock,A2
+FRU-016,Kiwi,Store Brand,Fruits,3 pcs,90,In stock,A2
+FRU-017,Strawberry,Store Brand,Fruits,200 g,80,In stock,A2
+FRU-018,Avocado,Store Brand,Fruits,1 pc,90,In stock,A2
+FRU-019,Dragon Fruit,Store Brand,Fruits,1 pc,85,In stock,A2
+FRU-020,Sapota (Chikoo),Store Brand,Fruits,500 g,50,In stock,A2
+FRU-021,Custard Apple,Store Brand,Fruits,500 g,70,In stock,A2
+FRU-022,Dates (Medjool),Store Brand,Fruits,250 g,220,In stock,A2
+FRU-023,Dates (Regular),Store Brand,Fruits,500 g,120,In stock,A2
+FRU-024,Lychee,Store Brand,Fruits,250 g,90,In stock,A2
+FRU-025,Plum,Store Brand,Fruits,500 g,110,In stock,A2
+FRU-026,Jackfruit (Cut),Store Brand,Fruits,500 g,60,In stock,A2
+DAI-001,Milk (Toned),Store Brand,Dairy and Eggs,500 ml,28,In stock,B1
+DAI-002,Milk (Toned),Store Brand,Dairy and Eggs,1 L,56,In stock,B1
+DAI-003,Milk (Full Cream),Store Brand,Dairy and Eggs,500 ml,34,In stock,B1
+DAI-004,Milk (Full Cream),Store Brand,Dairy and Eggs,1 L,66,In stock,B1
+DAI-005,Curd,Store Brand,Dairy and Eggs,400 g,35,In stock,B1
+DAI-006,Curd,Store Brand,Dairy and Eggs,1 kg,85,In stock,B1
+DAI-007,Yogurt (Plain),Store Brand,Dairy and Eggs,100 g,20,In stock,B1
+DAI-008,Yogurt (Greek),Store Brand,Dairy and Eggs,100 g,40,In stock,B1
+DAI-009,Yogurt (Strawberry),Store Brand,Dairy and Eggs,100 g,25,In stock,B1
+DAI-010,Yogurt (Mango),Store Brand,Dairy and Eggs,100 g,25,In stock,B1
+DAI-011,Buttermilk,Store Brand,Dairy and Eggs,200 ml,15,In stock,B1
+DAI-012,Sweet Lassi,Store Brand,Dairy and Eggs,200 ml,25,In stock,B1
+DAI-013,Butter (Salted),Store Brand,Dairy and Eggs,100 g,58,In stock,B1
+DAI-014,Butter (Unsalted),Store Brand,Dairy and Eggs,500 g,290,In stock,B1
+DAI-015,Cheese Slices,Store Brand,Dairy and Eggs,200 g,140,In stock,B1
+DAI-016,Cheese Spread,Store Brand,Dairy and Eggs,180 g,110,In stock,B1
+DAI-017,Mozzarella Cheese,Store Brand,Dairy and Eggs,200 g,160,In stock,B1
+DAI-018,Cheese Cubes,Store Brand,Dairy and Eggs,200 g,130,In stock,B1
+DAI-019,Paneer,Store Brand,Dairy and Eggs,200 g,90,In stock,B1
+DAI-020,Ghee,Store Brand,Dairy and Eggs,500 ml,330,In stock,B1
+DAI-021,Fresh Cream,Store Brand,Dairy and Eggs,200 ml,70,In stock,B1
+DAI-022,Condensed Milk,Store Brand,Dairy and Eggs,400 g,130,In stock,B1
+DAI-023,Skimmed Milk Powder,Store Brand,Dairy and Eggs,500 g,240,In stock,B1
+DAI-024,Eggs,Store Brand,Dairy and Eggs,6 pcs,45,In stock,B1
+DAI-025,Eggs,Store Brand,Dairy and Eggs,12 pcs,85,In stock,B1
+DAI-026,Eggs (Brown),Store Brand,Dairy and Eggs,6 pcs,60,In stock,B1
+DAI-027,Flavoured Milk (Chocolate),Store Brand,Dairy and Eggs,200 ml,30,In stock,B1
+DAI-028,Flavoured Milk (Badam),Store Brand,Dairy and Eggs,200 ml,30,In stock,B1
+BAK-001,White Bread,Store Brand,Bakery,400 g,40,In stock,B2
+BAK-002,Brown Bread,Store Brand,Bakery,400 g,50,In stock,B2
+BAK-003,Multigrain Bread,Store Brand,Bakery,400 g,60,In stock,B2
+BAK-004,Milk Bread,Store Brand,Bakery,400 g,45,In stock,B2
+BAK-005,Pav,Store Brand,Bakery,6 pcs,30,In stock,B2
+BAK-006,Burger Buns,Store Brand,Bakery,4 pcs,40,In stock,B2
+BAK-007,Hot Dog Buns,Store Brand,Bakery,4 pcs,40,In stock,B2
+BAK-008,Rusk,Store Brand,Bakery,200 g,40,In stock,B2
+BAK-009,Khari Biscuit,Store Brand,Bakery,200 g,50,In stock,B2
+BAK-010,Plain Cake,Store Brand,Bakery,250 g,90,In stock,B2
+BAK-011,Chocolate Cake Slice,Store Brand,Bakery,1 pc,45,In stock,B2
+BAK-012,Croissant,Store Brand,Bakery,1 pc,40,In stock,B2
+BAK-013,Muffin,Store Brand,Bakery,1 pc,35,In stock,B2
+BAK-014,Butter Cookies,Store Brand,Bakery,200 g,90,In stock,B2
+BAK-015,Puff Pastry,Store Brand,Bakery,1 pc,25,In stock,B2
+BAK-016,Pizza Base,Store Brand,Bakery,2 pcs,70,In stock,B2
+BAK-017,Tea Cake,Store Brand,Bakery,1 pc,20,In stock,B2
+BAK-018,Garlic Bread,Store Brand,Bakery,1 pc,60,In stock,B2
+STP-001,Basmati Rice,Store Brand,"Rice, Flour and Pulses",1 kg,110,In stock,C1
+STP-002,Matta Rice,Store Brand,"Rice, Flour and Pulses",5 kg,320,In stock,C1
+STP-003,Raw Rice (Ponni),Store Brand,"Rice, Flour and Pulses",5 kg,290,In stock,C1
+STP-004,Idli Rice,Store Brand,"Rice, Flour and Pulses",1 kg,55,In stock,C1
+STP-005,Sona Masoori Rice,Store Brand,"Rice, Flour and Pulses",5 kg,340,In stock,C1
+STP-006,Wheat Atta,Store Brand,"Rice, Flour and Pulses",5 kg,250,In stock,C1
+STP-007,Wheat Atta,Store Brand,"Rice, Flour and Pulses",10 kg,480,In stock,C1
+STP-008,Maida,Store Brand,"Rice, Flour and Pulses",1 kg,45,In stock,C1
+STP-009,Sooji (Rava),Store Brand,"Rice, Flour and Pulses",500 g,30,In stock,C1
+STP-010,Rice Flour,Store Brand,"Rice, Flour and Pulses",1 kg,55,In stock,C1
+STP-011,Appam Podi,Store Brand,"Rice, Flour and Pulses",500 g,60,In stock,C1
+STP-012,Puttu Podi,Store Brand,"Rice, Flour and Pulses",1 kg,70,In stock,C1
+STP-013,Besan,Store Brand,"Rice, Flour and Pulses",500 g,60,In stock,C1
+STP-014,Ragi Flour,Store Brand,"Rice, Flour and Pulses",500 g,50,In stock,C1
+STP-015,Corn Flour,Store Brand,"Rice, Flour and Pulses",200 g,35,In stock,C1
+STP-016,Toor Dal,Store Brand,"Rice, Flour and Pulses",1 kg,160,In stock,C1
+STP-017,Moong Dal,Store Brand,"Rice, Flour and Pulses",500 g,80,In stock,C1
+STP-018,Chana Dal,Store Brand,"Rice, Flour and Pulses",500 g,65,In stock,C1
+STP-019,Urad Dal,Store Brand,"Rice, Flour and Pulses",500 g,85,In stock,C1
+STP-020,Masoor Dal,Store Brand,"Rice, Flour and Pulses",500 g,60,In stock,C1
+STP-021,Green Gram (Whole Moong),Store Brand,"Rice, Flour and Pulses",500 g,75,In stock,C1
+STP-022,Rajma,Store Brand,"Rice, Flour and Pulses",500 g,90,In stock,C1
+STP-023,Kabuli Chana,Store Brand,"Rice, Flour and Pulses",500 g,85,In stock,C1
+STP-024,Black Chana,Store Brand,"Rice, Flour and Pulses",500 g,60,In stock,C1
+STP-025,Dried Green Peas,Store Brand,"Rice, Flour and Pulses",500 g,55,In stock,C1
+STP-026,Poha (Flattened Rice),Store Brand,"Rice, Flour and Pulses",500 g,40,In stock,C1
+STP-027,Oats,Store Brand,"Rice, Flour and Pulses",400 g,85,In stock,C1
+STP-028,Cornflakes,Store Brand,"Rice, Flour and Pulses",475 g,190,In stock,C1
+STP-029,Vermicelli,Store Brand,"Rice, Flour and Pulses",400 g,45,In stock,C1
+STP-030,Pasta (Penne),Store Brand,"Rice, Flour and Pulses",500 g,80,In stock,C1
+STP-031,Macaroni,Store Brand,"Rice, Flour and Pulses",500 g,70,In stock,C1
+STP-032,Sugar,Store Brand,"Rice, Flour and Pulses",1 kg,48,In stock,C1
+STP-033,Jaggery,Store Brand,"Rice, Flour and Pulses",500 g,50,In stock,C1
+STP-034,Salt,Store Brand,"Rice, Flour and Pulses",1 kg,28,In stock,C1
+STP-035,Rock Salt,Store Brand,"Rice, Flour and Pulses",500 g,35,In stock,C1
+STP-036,Sunflower Oil,Store Brand,"Rice, Flour and Pulses",1 L,140,In stock,C1
+STP-037,Coconut Oil,Store Brand,"Rice, Flour and Pulses",1 L,220,In stock,C1
+STP-038,Groundnut Oil,Store Brand,"Rice, Flour and Pulses",1 L,210,In stock,C1
+STP-039,Mustard Oil,Store Brand,"Rice, Flour and Pulses",1 L,170,In stock,C1
+STP-040,Olive Oil,Store Brand,"Rice, Flour and Pulses",500 ml,450,In stock,C1
+STP-041,Sesame Oil,Store Brand,"Rice, Flour and Pulses",500 ml,260,In stock,C1
+SPI-001,Turmeric Powder,Store Brand,Spices and Masalas,100 g,35,In stock,C2
+SPI-002,Chilli Powder,Store Brand,Spices and Masalas,100 g,45,In stock,C2
+SPI-003,Coriander Powder,Store Brand,Spices and Masalas,100 g,35,In stock,C2
+SPI-004,Garam Masala,Store Brand,Spices and Masalas,50 g,55,In stock,C2
+SPI-005,Cumin Seeds,Store Brand,Spices and Masalas,100 g,60,In stock,C2
+SPI-006,Mustard Seeds,Store Brand,Spices and Masalas,100 g,20,In stock,C2
+SPI-007,Fennel Seeds,Store Brand,Spices and Masalas,100 g,40,In stock,C2
+SPI-008,Fenugreek Seeds,Store Brand,Spices and Masalas,100 g,25,In stock,C2
+SPI-009,Black Pepper,Store Brand,Spices and Masalas,50 g,55,In stock,C2
+SPI-010,Cardamom,Store Brand,Spices and Masalas,10 g,55,In stock,C2
+SPI-011,Cloves,Store Brand,Spices and Masalas,20 g,45,In stock,C2
+SPI-012,Cinnamon,Store Brand,Spices and Masalas,20 g,25,In stock,C2
+SPI-013,Bay Leaf,Store Brand,Spices and Masalas,10 g,15,In stock,C2
+SPI-014,Star Anise,Store Brand,Spices and Masalas,10 g,30,In stock,C2
+SPI-015,Sambar Powder,Store Brand,Spices and Masalas,100 g,50,In stock,C2
+SPI-016,Rasam Powder,Store Brand,Spices and Masalas,100 g,45,In stock,C2
+SPI-017,Biryani Masala,Store Brand,Spices and Masalas,50 g,55,In stock,C2
+SPI-018,Chicken Masala,Store Brand,Spices and Masalas,100 g,60,In stock,C2
+SPI-019,Fish Curry Masala,Store Brand,Spices and Masalas,100 g,55,In stock,C2
+SPI-020,Meat Masala,Store Brand,Spices and Masalas,100 g,60,In stock,C2
+SPI-021,Chana Masala,Store Brand,Spices and Masalas,100 g,55,In stock,C2
+SPI-022,Tamarind,Store Brand,Spices and Masalas,250 g,45,In stock,C2
+SPI-023,Asafoetida (Hing),Store Brand,Spices and Masalas,50 g,60,In stock,C2
+SPI-024,Kasuri Methi,Store Brand,Spices and Masalas,25 g,25,In stock,C2
+SPI-025,Dry Red Chilli,Store Brand,Spices and Masalas,100 g,40,In stock,C2
+SPI-026,Curry Leaves (Dried),Store Brand,Spices and Masalas,20 g,15,In stock,C2
+SPI-027,Baking Powder,Store Brand,Spices and Masalas,100 g,35,In stock,C2
+SPI-028,Baking Soda,Store Brand,Spices and Masalas,100 g,20,In stock,C2
+SPI-029,Vanilla Essence,Store Brand,Spices and Masalas,20 ml,45,In stock,C2
+MTF-001,Chicken (Curry Cut),Store Brand,Meat and Fish,500 g,120,In stock,D1
+MTF-002,Chicken Breast Boneless,Store Brand,Meat and Fish,500 g,190,In stock,D1
+MTF-003,Chicken Legs,Store Brand,Meat and Fish,500 g,130,In stock,D1
+MTF-004,Mutton (Curry Cut),Store Brand,Meat and Fish,500 g,380,In stock,D1
+MTF-005,Sardine (Mathi),Store Brand,Meat and Fish,500 g,90,In stock,D1
+MTF-006,Mackerel (Ayala),Store Brand,Meat and Fish,500 g,110,In stock,D1
+MTF-007,Seer Fish (Neymeen),Store Brand,Meat and Fish,500 g,420,In stock,D1
+MTF-008,Tuna Steaks,Store Brand,Meat and Fish,500 g,280,In stock,D1
+MTF-009,Pomfret,Store Brand,Meat and Fish,500 g,380,In stock,D1
+MTF-010,Prawns (Cleaned),Store Brand,Meat and Fish,250 g,220,In stock,D1
+MTF-011,Squid,Store Brand,Meat and Fish,250 g,140,In stock,D1
+MTF-012,Crab,Store Brand,Meat and Fish,500 g,300,In stock,D1
+MTF-013,Chicken Sausages,Store Brand,Meat and Fish,250 g,160,In stock,D1
+MTF-014,Chicken Salami,Store Brand,Meat and Fish,200 g,150,In stock,D1
+FRZ-001,Frozen Green Peas,Store Brand,Frozen Foods,500 g,90,In stock,D2
+FRZ-002,Frozen Sweet Corn,Store Brand,Frozen Foods,500 g,95,In stock,D2
+FRZ-003,Mixed Vegetables,Store Brand,Frozen Foods,500 g,100,In stock,D2
+FRZ-004,French Fries,Store Brand,Frozen Foods,420 g,120,In stock,D2
+FRZ-005,Chicken Nuggets,Store Brand,Frozen Foods,250 g,180,In stock,D2
+FRZ-006,Veg Cutlet,Store Brand,Frozen Foods,200 g,90,In stock,D2
+FRZ-007,Aloo Tikki,Store Brand,Frozen Foods,400 g,110,In stock,D2
+FRZ-008,Paratha (Malabar),Store Brand,Frozen Foods,5 pcs,80,In stock,D2
+FRZ-009,Chapati,Store Brand,Frozen Foods,10 pcs,70,In stock,D2
+FRZ-010,Spring Roll,Store Brand,Frozen Foods,250 g,140,In stock,D2
+FRZ-011,Vanilla Ice Cream,Store Brand,Frozen Foods,1 L,220,In stock,D2
+FRZ-012,Chocolate Ice Cream,Store Brand,Frozen Foods,1 L,240,In stock,D2
+FRZ-013,Ice Cream Cup,Store Brand,Frozen Foods,100 ml,30,In stock,D2
+FRZ-014,Ice Cream Cone,Store Brand,Frozen Foods,1 pc,40,In stock,D2
+FRZ-015,Frozen Momos,Store Brand,Frozen Foods,10 pcs,130,In stock,D2
+BEV-001,Tea Powder,Store Brand,Beverages,250 g,110,In stock,E1
+BEV-002,Tea Powder,Store Brand,Beverages,1 kg,420,In stock,E1
+BEV-003,Green Tea,Store Brand,Beverages,25 bags,140,In stock,E1
+BEV-004,Masala Tea Bags,Store Brand,Beverages,25 bags,120,In stock,E1
+BEV-005,Coffee Powder,Store Brand,Beverages,200 g,160,In stock,E1
+BEV-006,Instant Coffee,Store Brand,Beverages,50 g,180,In stock,E1
+BEV-007,Cold Coffee Can,Store Brand,Beverages,180 ml,60,In stock,E1
+BEV-008,Malt Drink (Horlicks),Store Brand,Beverages,500 g,260,In stock,E1
+BEV-009,Chocolate Drink (Bournvita),Store Brand,Beverages,500 g,250,In stock,E1
+BEV-010,Health Drink (Boost),Store Brand,Beverages,500 g,240,In stock,E1
+BEV-011,Cola,Store Brand,Beverages,750 ml,40,In stock,E1
+BEV-012,Lemon Soda,Store Brand,Beverages,750 ml,40,In stock,E1
+BEV-013,Orange Soda,Store Brand,Beverages,750 ml,40,In stock,E1
+BEV-014,Club Soda,Store Brand,Beverages,750 ml,30,In stock,E1
+BEV-015,Orange Juice,Store Brand,Beverages,1 L,110,In stock,E1
+BEV-016,Mango Juice,Store Brand,Beverages,1 L,100,In stock,E1
+BEV-017,Apple Juice,Store Brand,Beverages,1 L,115,In stock,E1
+BEV-018,Mixed Fruit Juice,Store Brand,Beverages,1 L,105,In stock,E1
+BEV-019,Packaged Drinking Water,Store Brand,Beverages,1 L,20,In stock,E1
+BEV-020,Packaged Drinking Water,Store Brand,Beverages,5 L,75,In stock,E1
+BEV-021,Tender Coconut Water,Store Brand,Beverages,200 ml,40,In stock,E1
+BEV-022,Energy Drink,Store Brand,Beverages,250 ml,125,In stock,E1
+BEV-023,Lemon Squash,Store Brand,Beverages,700 ml,120,In stock,E1
+BEV-024,Rose Syrup,Store Brand,Beverages,750 ml,140,In stock,E1
+BEV-025,Electrolyte Drink,Store Brand,Beverages,200 ml,30,In stock,E1
+SNK-001,Potato Chips,Store Brand,Snacks and Packaged Foods,50 g,20,In stock,E2
+SNK-002,Banana Chips,Store Brand,Snacks and Packaged Foods,200 g,60,In stock,E2
+SNK-003,Tapioca Chips,Store Brand,Snacks and Packaged Foods,200 g,55,In stock,E2
+SNK-004,Murukku,Store Brand,Snacks and Packaged Foods,200 g,60,In stock,E2
+SNK-005,Mixture (Namkeen),Store Brand,Snacks and Packaged Foods,200 g,55,In stock,E2
+SNK-006,Roasted Peanuts,Store Brand,Snacks and Packaged Foods,200 g,40,In stock,E2
+SNK-007,Popcorn,Store Brand,Snacks and Packaged Foods,60 g,20,In stock,E2
+SNK-008,Marie Biscuits,Store Brand,Snacks and Packaged Foods,250 g,40,In stock,E2
+SNK-009,Cream Biscuits,Store Brand,Snacks and Packaged Foods,120 g,30,In stock,E2
+SNK-010,Digestive Biscuits,Store Brand,Snacks and Packaged Foods,250 g,70,In stock,E2
+SNK-011,Chocolate Cookies,Store Brand,Snacks and Packaged Foods,150 g,60,In stock,E2
+SNK-012,Chocolate Bar,Store Brand,Snacks and Packaged Foods,50 g,50,In stock,E2
+SNK-013,Milk Chocolate,Store Brand,Snacks and Packaged Foods,100 g,95,In stock,E2
+SNK-014,Candy Pack,Store Brand,Snacks and Packaged Foods,100 g,30,In stock,E2
+SNK-015,Cashew Nuts,Store Brand,Snacks and Packaged Foods,250 g,260,In stock,E2
+SNK-016,Almonds,Store Brand,Snacks and Packaged Foods,250 g,280,In stock,E2
+SNK-017,Raisins,Store Brand,Snacks and Packaged Foods,250 g,110,In stock,E2
+SNK-018,Walnuts,Store Brand,Snacks and Packaged Foods,250 g,300,In stock,E2
+SNK-019,Pistachios,Store Brand,Snacks and Packaged Foods,200 g,290,In stock,E2
+SNK-020,Mixed Dry Fruits,Store Brand,Snacks and Packaged Foods,500 g,550,In stock,E2
+SNK-021,Instant Noodles,Store Brand,Snacks and Packaged Foods,70 g,14,In stock,E2
+SNK-022,Instant Noodles Family Pack,Store Brand,Snacks and Packaged Foods,280 g,60,In stock,E2
+SNK-023,Peanut Butter,Store Brand,Snacks and Packaged Foods,340 g,180,In stock,E2
+SNK-024,Mixed Fruit Jam,Store Brand,Snacks and Packaged Foods,500 g,150,In stock,E2
+SNK-025,Honey,Store Brand,Snacks and Packaged Foods,500 g,220,In stock,E2
+SNK-026,Tomato Ketchup,Store Brand,Snacks and Packaged Foods,500 g,110,In stock,E2
+SNK-027,Mayonnaise,Store Brand,Snacks and Packaged Foods,250 g,90,In stock,E2
+SNK-028,Soy Sauce,Store Brand,Snacks and Packaged Foods,200 ml,50,In stock,E2
+SNK-029,Chilli Sauce,Store Brand,Snacks and Packaged Foods,200 ml,50,In stock,E2
+SNK-030,Mango Pickle,Store Brand,Snacks and Packaged Foods,300 g,95,In stock,E2
+SNK-031,Lime Pickle,Store Brand,Snacks and Packaged Foods,300 g,90,In stock,E2
+SNK-032,Papad,Store Brand,Snacks and Packaged Foods,200 g,60,In stock,E2
+SNK-033,Chocolate Spread,Store Brand,Snacks and Packaged Foods,350 g,290,In stock,E2
+SNK-034,Canned Sweet Corn,Store Brand,Snacks and Packaged Foods,425 g,110,In stock,E2
+SNK-035,Canned Chickpeas,Store Brand,Snacks and Packaged Foods,400 g,90,In stock,E2
+HOU-001,Washing Powder,Store Brand,Cleaning and Household,1 kg,120,In stock,F1
+HOU-002,Washing Powder,Store Brand,Cleaning and Household,4 kg,440,In stock,F1
+HOU-003,Liquid Detergent,Store Brand,Cleaning and Household,1 L,230,In stock,F1
+HOU-004,Detergent Bar,Store Brand,Cleaning and Household,250 g,20,In stock,F1
+HOU-005,Fabric Softener,Store Brand,Cleaning and Household,800 ml,190,In stock,F1
+HOU-006,Dishwash Liquid,Store Brand,Cleaning and Household,500 ml,110,In stock,F1
+HOU-007,Dishwash Bar,Store Brand,Cleaning and Household,300 g,30,In stock,F1
+HOU-008,Floor Cleaner,Store Brand,Cleaning and Household,1 L,190,In stock,F1
+HOU-009,Toilet Cleaner,Store Brand,Cleaning and Household,500 ml,95,In stock,F1
+HOU-010,Glass Cleaner,Store Brand,Cleaning and Household,500 ml,110,In stock,F1
+HOU-011,Bleach,Store Brand,Cleaning and Household,500 ml,60,In stock,F1
+HOU-012,Phenyl,Store Brand,Cleaning and Household,1 L,90,In stock,F1
+HOU-013,Garbage Bags,Store Brand,Cleaning and Household,30 pcs,90,In stock,F1
+HOU-014,Tissue Paper Roll,Store Brand,Cleaning and Household,2 rolls,70,In stock,F1
+HOU-015,Kitchen Towel,Store Brand,Cleaning and Household,2 rolls,120,In stock,F1
+HOU-016,Facial Tissue Box,Store Brand,Cleaning and Household,100 pulls,60,In stock,F1
+HOU-017,Aluminium Foil,Store Brand,Cleaning and Household,9 m,85,In stock,F1
+HOU-018,Cling Wrap,Store Brand,Cleaning and Household,30 m,110,In stock,F1
+HOU-019,Scrub Pad,Store Brand,Cleaning and Household,3 pcs,40,In stock,F1
+HOU-020,Cleaning Brush,Store Brand,Cleaning and Household,1 pc,60,In stock,F1
+HOU-021,Bucket (Plastic 16 L),Store Brand,Cleaning and Household,1 pc,190,In stock,F1
+HOU-022,Mug (Plastic),Store Brand,Cleaning and Household,1 pc,50,In stock,F1
+HOU-023,Broom,Store Brand,Cleaning and Household,1 pc,90,In stock,F1
+HOU-024,Mop,Store Brand,Cleaning and Household,1 pc,240,In stock,F1
+HOU-025,Dustpan,Store Brand,Cleaning and Household,1 pc,60,In stock,F1
+HOU-026,Matchbox,Store Brand,Cleaning and Household,10 pcs,20,In stock,F1
+HOU-027,Candles,Store Brand,Cleaning and Household,6 pcs,40,In stock,F1
+HOU-028,Air Freshener,Store Brand,Cleaning and Household,220 ml,180,In stock,F1
+HOU-029,Mosquito Repellent Refill,Store Brand,Cleaning and Household,1 pc,85,In stock,F1
+HOU-030,Insect Spray,Store Brand,Cleaning and Household,400 ml,230,In stock,F1
+HOU-031,Naphthalene Balls,Store Brand,Cleaning and Household,100 g,35,In stock,F1
+HOU-032,Clothes Hanger,Store Brand,Cleaning and Household,6 pcs,90,In stock,F1
+HOU-033,Laundry Basket,Store Brand,Cleaning and Household,1 pc,260,In stock,F1
+PER-001,Bathing Soap,Store Brand,Personal Care,100 g,40,In stock,G1
+PER-002,Bathing Soap (Pack of 4),Store Brand,Personal Care,4 x 100 g,140,In stock,G1
+PER-003,Shampoo,Store Brand,Personal Care,340 ml,240,In stock,G1
+PER-004,Shampoo Sachet,Store Brand,Personal Care,6 ml,2,In stock,G1
+PER-005,Conditioner,Store Brand,Personal Care,180 ml,180,In stock,G1
+PER-006,Hair Oil (Coconut),Store Brand,Personal Care,200 ml,95,In stock,G1
+PER-007,Toothpaste,Store Brand,Personal Care,150 g,95,In stock,G1
+PER-008,Toothbrush,Store Brand,Personal Care,1 pc,40,In stock,G1
+PER-009,Mouthwash,Store Brand,Personal Care,250 ml,130,In stock,G1
+PER-010,Face Wash,Store Brand,Personal Care,100 g,150,In stock,G1
+PER-011,Face Cream,Store Brand,Personal Care,50 g,180,In stock,G1
+PER-012,Body Lotion,Store Brand,Personal Care,400 ml,260,In stock,G1
+PER-013,Sunscreen,Store Brand,Personal Care,50 g,290,In stock,G1
+PER-014,Deodorant,Store Brand,Personal Care,150 ml,220,In stock,G1
+PER-015,Perfume,Store Brand,Personal Care,50 ml,350,In stock,G1
+PER-016,Talcum Powder,Store Brand,Personal Care,200 g,110,In stock,G1
+PER-017,Handwash Liquid,Store Brand,Personal Care,250 ml,90,In stock,G1
+PER-018,Hand Sanitizer,Store Brand,Personal Care,100 ml,60,In stock,G1
+PER-019,Sanitary Pads,Store Brand,Personal Care,20 pcs,160,In stock,G1
+PER-020,Razor,Store Brand,Personal Care,1 pc,60,In stock,G1
+PER-021,Shaving Foam,Store Brand,Personal Care,200 g,190,In stock,G1
+PER-022,Shaving Cream,Store Brand,Personal Care,70 g,75,In stock,G1
+PER-023,Comb,Store Brand,Personal Care,1 pc,30,In stock,G1
+PER-024,Cotton Buds,Store Brand,Personal Care,100 pcs,40,In stock,G1
+PER-025,Cotton Roll,Store Brand,Personal Care,100 g,45,In stock,G1
+PER-026,Hair Colour,Store Brand,Personal Care,1 pack,180,In stock,G1
+PER-027,Kajal,Store Brand,Personal Care,1 pc,120,In stock,G1
+PER-028,Lip Balm,Store Brand,Personal Care,1 pc,110,In stock,G1
+PER-029,Nail Cutter,Store Brand,Personal Care,1 pc,50,In stock,G1
+PER-030,Body Wash,Store Brand,Personal Care,250 ml,230,In stock,G1
+STA-001,"Pen (Ball Point, Blue)",Store Brand,Stationery,1 pc,10,In stock,H1
+STA-002,"Pen (Ball Point, Black)",Store Brand,Stationery,1 pc,10,In stock,H1
+STA-003,"Pen (Ball Point, Red)",Store Brand,Stationery,1 pc,10,In stock,H1
+STA-004,Ball Pens Pack (Blue),Store Brand,Stationery,10 pcs,90,In stock,H1
+STA-005,Gel Pen (Blue),Store Brand,Stationery,1 pc,20,In stock,H1
+STA-006,Gel Pen (Black),Store Brand,Stationery,1 pc,20,In stock,H1
+STA-007,Fountain Pen,Store Brand,Stationery,1 pc,150,In stock,H1
+STA-008,Ink Bottle (Blue),Store Brand,Stationery,60 ml,45,In stock,H1
+STA-009,Pencil (HB),Store Brand,Stationery,1 pc,5,In stock,H1
+STA-010,Pencils (HB),Store Brand,Stationery,10 pcs,50,In stock,H1
+STA-011,Mechanical Pencil,Store Brand,Stationery,1 pc,40,In stock,H1
+STA-012,Pencil Lead Refill,Store Brand,Stationery,1 pack,25,In stock,H1
+STA-013,Eraser,Store Brand,Stationery,1 pc,5,In stock,H1
+STA-014,Sharpener,Store Brand,Stationery,1 pc,8,In stock,H1
+STA-015,Ruler (30 cm),Store Brand,Stationery,1 pc,20,In stock,H1
+STA-016,Steel Scale,Store Brand,Stationery,1 pc,35,In stock,H1
+STA-017,"Notebook (Single Line, 172 pages)",Store Brand,Stationery,1 pc,60,In stock,H1
+STA-018,"Notebook (Single Line, 80 pages)",Store Brand,Stationery,1 pc,35,In stock,H1
+STA-019,Notebook (Square Line),Store Brand,Stationery,1 pc,60,In stock,H1
+STA-020,Spiral Notebook,Store Brand,Stationery,1 pc,90,In stock,H1
+STA-021,Long Notebook,Store Brand,Stationery,1 pc,75,In stock,H1
+STA-022,Record Book,Store Brand,Stationery,1 pc,110,In stock,H1
+STA-023,Drawing Book,Store Brand,Stationery,1 pc,50,In stock,H1
+STA-024,Graph Book,Store Brand,Stationery,1 pc,65,In stock,H1
+STA-025,Diary,Store Brand,Stationery,1 pc,120,In stock,H1
+STA-026,Highlighter,Store Brand,Stationery,1 pc,30,In stock,H1
+STA-027,Highlighters Set,Store Brand,Stationery,4 pcs,110,In stock,H1
+STA-028,Permanent Marker,Store Brand,Stationery,1 pc,30,In stock,H1
+STA-029,Whiteboard Marker,Store Brand,Stationery,1 pc,30,In stock,H1
+STA-030,Sketch Pens,Store Brand,Stationery,12 pcs,70,In stock,H1
+STA-031,Colour Pencils,Store Brand,Stationery,12 shades,80,In stock,H1
+STA-032,Crayons,Store Brand,Stationery,12 shades,50,In stock,H1
+STA-033,Water Colours,Store Brand,Stationery,12 shades,75,In stock,H1
+STA-034,Paint Brush Set,Store Brand,Stationery,3 pcs,60,In stock,H1
+STA-035,Geometry Box,Store Brand,Stationery,1 set,110,In stock,H1
+STA-036,Compass,Store Brand,Stationery,1 pc,40,In stock,H1
+STA-037,Calculator,Store Brand,Stationery,1 pc,280,In stock,H1
+STA-038,Glue Stick,Store Brand,Stationery,1 pc,30,In stock,H1
+STA-039,Fevicol,Store Brand,Stationery,50 g,30,In stock,H1
+STA-040,Scissors,Store Brand,Stationery,1 pc,40,In stock,H1
+STA-041,Paper Cutter,Store Brand,Stationery,1 pc,30,In stock,H1
+STA-042,Stapler,Store Brand,Stationery,1 pc,60,In stock,H1
+STA-043,Staple Pins,Store Brand,Stationery,1 box,15,In stock,H1
+STA-044,Paper Clips,Store Brand,Stationery,100 pcs,25,In stock,H1
+STA-045,Punching Machine,Store Brand,Stationery,1 pc,120,In stock,H1
+STA-046,Sticky Notes,Store Brand,Stationery,100 sheets,40,In stock,H1
+STA-047,Transparent Tape,Store Brand,Stationery,1 roll,25,In stock,H1
+STA-048,Masking Tape,Store Brand,Stationery,1 roll,35,In stock,H1
+STA-049,Correction Pen,Store Brand,Stationery,1 pc,30,In stock,H1
+STA-050,A4 Paper,Store Brand,Stationery,500 sheets,290,In stock,H1
+STA-051,Chart Paper,Store Brand,Stationery,1 sheet,8,In stock,H1
+STA-052,Envelopes,Store Brand,Stationery,10 pcs,30,In stock,H1
+STA-053,File Folder,Store Brand,Stationery,1 pc,40,In stock,H1
+STA-054,Plastic Folder,Store Brand,Stationery,1 pc,20,In stock,H1
+STA-055,Rubber Bands,Store Brand,Stationery,1 pack,20,In stock,H1
+STA-056,Pen Stand,Store Brand,Stationery,1 pc,60,In stock,H1
+STA-057,Pencil Box,Store Brand,Stationery,1 pc,90,In stock,H1
+STA-058,School Bag,Store Brand,Stationery,1 pc,550,In stock,H1
+STA-059,Name Slip Labels,Store Brand,Stationery,1 sheet,15,In stock,H1
+STA-060,Brown Paper Roll,Store Brand,Stationery,1 pc,40,In stock,H1
+STA-061,Clipboard,Store Brand,Stationery,1 pc,60,In stock,H1
+STA-062,Whiteboard Duster,Store Brand,Stationery,1 pc,20,In stock,H1
+BBY-001,Diapers (Small),Store Brand,Baby Care,42 pcs,480,In stock,I1
+BBY-002,Diapers (Medium),Store Brand,Baby Care,38 pcs,480,In stock,I1
+BBY-003,Diapers (Large),Store Brand,Baby Care,34 pcs,480,In stock,I1
+BBY-004,Baby Wipes,Store Brand,Baby Care,72 pcs,140,In stock,I1
+BBY-005,Baby Soap,Store Brand,Baby Care,75 g,70,In stock,I1
+BBY-006,Baby Shampoo,Store Brand,Baby Care,200 ml,190,In stock,I1
+BBY-007,Baby Lotion,Store Brand,Baby Care,200 ml,200,In stock,I1
+BBY-008,Baby Powder,Store Brand,Baby Care,200 g,120,In stock,I1
+BBY-009,Baby Oil,Store Brand,Baby Care,200 ml,180,In stock,I1
+BBY-010,Baby Cereal,Store Brand,Baby Care,300 g,260,In stock,I1
+BBY-011,Infant Formula,Store Brand,Baby Care,400 g,520,In stock,I1
+BBY-012,Feeding Bottle,Store Brand,Baby Care,1 pc,180,In stock,I1
+BBY-013,Baby Toothbrush,Store Brand,Baby Care,1 pc,60,In stock,I1
+HLT-001,Bandage Strips,Store Brand,Health and Wellness,20 pcs,40,In stock,I2
+HLT-002,ORS Powder,Store Brand,Health and Wellness,1 sachet,22,In stock,I2
+HLT-003,Glucose Powder,Store Brand,Health and Wellness,200 g,75,In stock,I2
+HLT-004,Chyawanprash,Store Brand,Health and Wellness,500 g,230,In stock,I2
+HLT-005,Honey Ginger Candy,Store Brand,Health and Wellness,1 pack,40,In stock,I2
+HLT-006,Antiseptic Liquid,Store Brand,Health and Wellness,100 ml,75,In stock,I2
+HLT-007,Antiseptic Cream,Store Brand,Health and Wellness,20 g,65,In stock,I2
+HLT-008,Pain Relief Spray,Store Brand,Health and Wellness,50 g,190,In stock,I2
+HLT-009,Face Mask,Store Brand,Health and Wellness,10 pcs,50,In stock,I2
+HLT-010,Digital Thermometer,Store Brand,Health and Wellness,1 pc,150,In stock,I2
+HLT-011,Cotton (Absorbent),Store Brand,Health and Wellness,100 g,45,In stock,I2
+HLT-012,Vitamin C Tablets,Store Brand,Health and Wellness,20 pcs,85,In stock,I2
+HLT-013,Protein Powder,Store Brand,Health and Wellness,500 g,1200,In stock,I2
+HLT-014,Herbal Tea,Store Brand,Health and Wellness,25 bags,150,In stock,I2
+HLT-015,Muscle Balm,Store Brand,Health and Wellness,25 g,90,In stock,I2
+PET-001,Dog Food (Dry),Store Brand,Pet Care,1 kg,280,In stock,I3
+PET-002,Dog Food (Wet),Store Brand,Pet Care,400 g,110,In stock,I3
+PET-003,Cat Food (Dry),Store Brand,Pet Care,1 kg,300,In stock,I3
+PET-004,Cat Food (Wet),Store Brand,Pet Care,85 g,45,In stock,I3
+PET-005,Pet Shampoo,Store Brand,Pet Care,200 ml,230,In stock,I3
+PET-006,Dog Biscuits,Store Brand,Pet Care,200 g,95,In stock,I3
+PET-007,Cat Litter,Store Brand,Pet Care,5 kg,450,In stock,I3
+KIT-001,Steel Plate,Store Brand,Kitchen and Dining,1 pc,120,In stock,J1
+KIT-002,Steel Tumbler,Store Brand,Kitchen and Dining,1 pc,60,In stock,J1
+KIT-003,Steel Spoon Set,Store Brand,Kitchen and Dining,6 pcs,110,In stock,J1
+KIT-004,Water Bottle (Steel),Store Brand,Kitchen and Dining,1 L,320,In stock,J1
+KIT-005,Water Bottle (Plastic),Store Brand,Kitchen and Dining,1 L,90,In stock,J1
+KIT-006,Lunch Box,Store Brand,Kitchen and Dining,1 pc,240,In stock,J1
+KIT-007,Casserole,Store Brand,Kitchen and Dining,1.5 L,450,In stock,J1
+KIT-008,Non-stick Pan,Store Brand,Kitchen and Dining,24 cm,650,In stock,J1
+KIT-009,Pressure Cooker,Store Brand,Kitchen and Dining,3 L,1100,In stock,J1
+KIT-010,Kadai,Store Brand,Kitchen and Dining,1 pc,480,In stock,J1
+KIT-011,Kitchen Knife,Store Brand,Kitchen and Dining,1 pc,120,In stock,J1
+KIT-012,Chopping Board,Store Brand,Kitchen and Dining,1 pc,150,In stock,J1
+KIT-013,Storage Container Set,Store Brand,Kitchen and Dining,3 pcs,250,In stock,J1
+KIT-014,Glass Set,Store Brand,Kitchen and Dining,6 pcs,240,In stock,J1
+KIT-015,Thermos Flask,Store Brand,Kitchen and Dining,1 L,550,In stock,J1
+KIT-016,Tea Strainer,Store Brand,Kitchen and Dining,1 pc,40,In stock,J1
+KIT-017,Ladle,Store Brand,Kitchen and Dining,1 pc,60,In stock,J1
+KIT-018,Idli Steamer,Store Brand,Kitchen and Dining,1 pc,420,In stock,J1
+ELE-001,AA Batteries,Store Brand,Electricals,4 pcs,70,In stock,J2
+ELE-002,AAA Batteries,Store Brand,Electricals,4 pcs,70,In stock,J2
+ELE-003,LED Bulb (9 W),Store Brand,Electricals,1 pc,90,In stock,J2
+ELE-004,LED Bulb (12 W),Store Brand,Electricals,1 pc,120,In stock,J2
+ELE-005,Extension Board,Store Brand,Electricals,1 pc,290,In stock,J2
+ELE-006,Torch,Store Brand,Electricals,1 pc,180,In stock,J2
+ELE-007,Phone Charger Cable,Store Brand,Electricals,1 pc,199,In stock,J2
+ELE-008,Power Bank (10000 mAh),Store Brand,Electricals,1 pc,1100,In stock,J2
+ELE-009,Table Lamp,Store Brand,Electricals,1 pc,450,In stock,J2
+ELE-010,Wall Clock,Store Brand,Electricals,1 pc,350,In stock,J2
+ELE-011,Plug Adapter,Store Brand,Electricals,1 pc,90,In stock,J2
+ELE-012,Insulation Tape,Store Brand,Electricals,1 roll,20,In stock,J2
